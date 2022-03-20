@@ -4,8 +4,8 @@
   height: auto;
   vertical-align: middle;
   border-style: none;
-  background-image: url(../img/landing-bg.svg);
-  background-position: center bottom;
+  background-image: url(../img/landing-bg/landing.jpg);
+  background-position: center top;
   position: relative;
   width: 100%;
   /*background: #333;*/
@@ -80,8 +80,8 @@
 	--color-bg: #fff;
 	--color-link: #236554;
 	--color-link-hover: #fff;
-	--color-top-right: limegreen;
-	--color-bottom-left: cyan;
+	--color-top-right:#368780;
+	--color-bottom-left: #30585a;
 }
 
 .completed .demo-1 {
