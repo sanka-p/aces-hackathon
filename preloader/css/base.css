@@ -4,10 +4,10 @@
 .demo-1 {
 	--color-text: #fff;
 	--color-bg: #fff;
-	--color-link: #236554;
+	--color-link: #095f1c;
 	--color-link-hover: #fff;
-	--color-top-right: #030f1f;
-	--color-bottom-left:#2af1d2;
+	--color-top-right: #32c511;
+	--color-bottom-left:#d83d00;
 }
 
 .completed .demo-1 {
